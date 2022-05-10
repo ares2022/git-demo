@@ -16,3 +16,4 @@ hello atguigu! hello git! my ares test
 hello atguigu hello git! hot-fix test
 hello atguigu! hello git! master test
 hello atguigu hello git! this new hot-doit
+这是my-git-one加的
